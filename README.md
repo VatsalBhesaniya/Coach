@@ -10,9 +10,9 @@ This Flutter application is designed to streamline operations, enhance customer 
 - Order history
 - Loyalty program
 - Push notifications
-- Inventory Management:
 
-### Product catalog
+### Inventory Management
+- Product catalog
 - Product catalogue
 - Stock levels
 - Supplier information
